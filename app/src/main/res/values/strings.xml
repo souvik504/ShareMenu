@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShareMenu</string>
+
+    <string-array name="sa">
+        <item>bangladesh</item>
+        <item>eangladesh</item>
+        <item>angladesh</item>
+        <item>angladesh</item>
+        <item>dangladesh</item>
+        <item>fangladesh</item>
+        <item>gangladesh</item>
+        <item>hangladesh</item>
+    </string-array>
+</resources>
